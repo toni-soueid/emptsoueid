@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="incident" label="IT Incident" max_length="40" name="x_snc_it_incidents_it_incident" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="External ID" max_length="40" name="external_id" type="string"/>
+    </element>
+</database>
