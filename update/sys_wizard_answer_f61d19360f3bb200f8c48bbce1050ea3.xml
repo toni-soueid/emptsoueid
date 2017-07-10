@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>IT Incident Task</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>IT Incident Task</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">eab415c50f7eba00f8c48bbce1050e6f</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-10 11:48:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f61d19360f3bb200f8c48bbce1050ea3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Incident Task</sys_name>
+        <sys_package display_value="IT Incidents" source="x_snc_it_incidents">78f578760fb7b200f8c48bbce1050e49</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IT Incidents">78f578760fb7b200f8c48bbce1050e49</sys_scope>
+        <sys_update_name>sys_wizard_answer_f61d19360f3bb200f8c48bbce1050ea3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-10 11:48:13</sys_updated_on>
+        <table/>
+        <target_url>x_snc_it_incidents_it_incident_task.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
